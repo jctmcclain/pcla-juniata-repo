@@ -2,8 +2,7 @@
 
 
 # PCLA Juniata College Repository
-<img src="./juniata.png" title="Juniata College Logo" align="right"/>
-
+<p><img src="./juniata.png" title="Juniata College Logo" align="right"/></p>
 
 
 Background - forthcoming 
