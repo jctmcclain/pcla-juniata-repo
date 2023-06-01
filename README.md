@@ -1,3 +1,6 @@
+![PCLA Logo](./PCLA-logo.png)
+
+
 # PCLA Juniata College Repository
 
 Background - forthcoming 
