@@ -14,15 +14,15 @@ Academic skills and student success modules developed May 2022 - June 2023 with 
 ```mermaid
 mindmap
 	root(PCLA)
-	::icon(fa-coffee)
+	::icon(fa fa-coffee)
 		Website 
-		::icon(fas fa-globe)
+		::icon(fa fa-globe)
 			Module Status
 		GitHub
 		::icon(fab fa-github-square)
 			SCORM Packages
 		Moodle
-		::icon(fas fa-graduation-cap)
+		::icon("fas fa-graduation-cap")
 			SCORM Showcase
 ```
 
