@@ -22,7 +22,7 @@ mindmap
 		::icon(fab fa-github-square)
 			SCORM Packages
 		Moodle
-		::icon("fas fa-graduation-cap")
+		::icon(fas fa-graduation-cap)
 			SCORM Showcase
 ```
 
