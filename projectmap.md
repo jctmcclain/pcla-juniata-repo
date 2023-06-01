@@ -14,7 +14,7 @@ Academic skills and student success modules developed May 2022 - June 2023 with 
 ```mermaid
 mindmap
 	root(PCLA)
-	::icon(fas fa-coffee)
+	::icon(fa fa-coffee)
 		Website 
 		::icon(fas fa-globe)
 			Module Status
