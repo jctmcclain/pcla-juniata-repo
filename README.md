@@ -2,10 +2,13 @@
 
 
 # PCLA Juniata College Repository
+
 <p><img src="./juniata.png" title="Juniata College Logo" align="right"/></p>
 
 
-Background - forthcoming 
+Bacon ipsum dolor amet turkey cow andouille buffalo. Cow bacon turducken kielbasa tongue shank biltong strip steak. Corned beef ground round pig leberkas. Corned beef venison cow, sirloin doner beef burgdoggen shoulder capicola chuck jerky. Kielbasa meatball pig meatloaf strip steak.
+
+Kevin t-bone flank frankfurter doner fatback short ribs ground round chuck. Chicken ham hock picanha ball tip, cow shoulder landjaeger pork ham short ribs chislic. Ribeye short loin swine flank, sausage cupim meatloaf beef filet mignon. Shankle kevin meatball cow drumstick beef ribs salami kielbasa pastrami. Ham hock tongue leberkas shoulder, pork filet mignon doner porchetta corned beef beef ribs. Pork chicken ribeye beef hamburger rump. Tenderloin boudin short ribs beef strip steak picanha burgdoggen t-bone hamburger porchetta.
 
 ## Sharable Content Object Reference Model 
 
